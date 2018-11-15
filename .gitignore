@@ -1,0 +1,8 @@
+data/*
+.ipynb_checkpoints/*
+
+
+!data/test100.csv
+!data/test1000.csv
+!data/train100.csv
+!data/train1000.csv
